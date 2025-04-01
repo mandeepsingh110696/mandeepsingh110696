@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🚀 Software Engineer | Full-Stack Developer
 
-<!--
-**mandeepsingh110696/mandeepsingh110696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Tech Stack:** React | TypeScript | Next.js | Python | Node.js  
+⚡ Passionate about **building scalable systems & intuitive UIs**  
+📊 Experienced in **APIs, distributed systems & cloud platforms**  
+🔍 Always debugging, optimizing & learning new tech!  
 
-Here are some ideas to get you started:
+### 📬 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](your-linkedin-url)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=react)](your-website-url)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ _“Clean code, strong coffee, and infinite loops of learning.”_  
