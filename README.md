@@ -26,6 +26,10 @@ Software Engineer with nearly 4 years of professional experience building scalab
 - **[Sketch Draw](https://github.com/yourusername/sketch-draw)** - Interactive drawing application using Canvas API
 - **[Real-Time Messaging App](https://github.com/yourusername/messaging-app)** - WebSocket-powered chat platform
 
+## 🎓 Certifications
+
+- **AI Agents Fundamentals** - Hugging Face (Mar 2025)
+
 ## 🏆 Achievements
 
 - ⭐ **LeetCode Warrior**: Solved 650+ problems with multiple badges
