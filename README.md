@@ -37,6 +37,10 @@ Software Engineer with nearly 4 years of professional experience building scalab
 - 🥇 **Hackathon Winner**: First place in company-wide competition
 - 🏅 **Codevita**: Top performer in national coding competition
 
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 ## 📫 Let's Connect
 
