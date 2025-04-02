@@ -23,8 +23,8 @@ Software Engineer with nearly 4 years of professional experience building scalab
 
 ## 💻 Recent Projects
 
-- **[Sketch Draw](https://github.com/yourusername/sketch-draw)** - Interactive drawing application using Canvas API
-- **[Real-Time Messaging App](https://github.com/yourusername/messaging-app)** - WebSocket-powered chat platform
+- **[Sketch Draw](https://github.com/mandeepsingh110696/Sketch-Draw)** - Interactive drawing application using Canvas API
+- **[Real-Time Messaging App](https://github.com/mandeepsingh110696/Real-Time-Messaging-App)** - WebSocket-powered chat platform
 
 ## 🎓 Certifications
 
