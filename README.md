@@ -22,7 +22,7 @@ Software Engineer with nearly 4 years of professional experience building scalab
 - 🌐 Architect microservices & distributed systems
 
 ## 💻 Recent Projects
-- **[Real-Time Messaging App](https://github.com/mandeepsingh110696/Real-Time-Messaging-App)** - WebSocket-powered chat platform
+- **[Code Review Pro](https://github.com/mandeepsingh110696/Code-Review-Pro)** - AI-Powered Code Analysis Tool
 - **[Sketch Draw](https://github.com/mandeepsingh110696/Sketch-Draw)** - Interactive drawing application using Canvas API
 
 
