@@ -48,7 +48,7 @@ Software Engineer with nearly 4 years of professional experience building scalab
 ## 📫 Let's Connect
 
 <p >
-  <a href="https://linkedin.com/in/mandeep-singh-23b964122"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/mandeep-singh-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mandeepsingh110696@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
