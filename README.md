@@ -32,7 +32,7 @@ Software Engineer with nearly 4 years of professional experience building scalab
 
 ## 🏆 Achievements
 
-- ☁️ AWS Certified Cloud Practitioner: Demonstrated foundational cloud knowledge (06/2025)
+- ☁️ AWS Certified Cloud Practitioner: Demonstrated foundational cloud knowledge
 - ⭐ **LeetCode Warrior**: Solved 650+ problems with multiple badges
 - 📜 **CKAD Course**: Completed Certified Kubernetes Application Developer training
 - 🥇 **Hackathon Winner**: First place in company-wide competition
