@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 About Me
-Software Engineer with nearly 4 years of professional experience building scalable web applications and intuitive user interfaces. Passionate about clean code, performance optimization, and creating exceptional user experiences.
+Software Engineer with over 4 years of professional experience building scalable web applications and intuitive user interfaces. Passionate about clean code, performance optimization, and creating exceptional user experiences.
 
 ## 🔧 What I Do
 
