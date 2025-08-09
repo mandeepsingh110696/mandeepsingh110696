@@ -28,9 +28,9 @@ Software Engineer with over 4 years of professional experience building scalable
 
 ## 🎓 Certifications
 
-- **AI Agents Fundamentals** - Hugging Face (Mar 2025)
-- **AWS Certified Cloud Practitioner: Demonstrated foundational cloud knowledge
-- **FullStack Labs Certified in React – Validated advanced React skills through rigorous vetting process
+- ☁️ AAWS Certified Cloud Practitioner: Demonstrated foundational cloud knowledge
+- 📜 AI Agents Fundamentals** - Hugging Face (Mar 2025)
+- 📜 FullStack Labs Certified in React – Validated advanced React skills through rigorous vetting process
 
 ## 🏆 Achievements
 
