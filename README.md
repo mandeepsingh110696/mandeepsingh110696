@@ -29,11 +29,11 @@ Software Engineer with over 4 years of professional experience building scalable
 ## 🎓 Certifications
 
 - **AI Agents Fundamentals** - Hugging Face (Mar 2025)
+- **AWS Certified Cloud Practitioner: Demonstrated foundational cloud knowledge
+- **FullStack Labs Certified in React – Validated advanced React skills through rigorous vetting process
 
 ## 🏆 Achievements
 
-- ☁️ AWS Certified Cloud Practitioner: Demonstrated foundational cloud knowledge
-- 📜 FullStack Labs Certified in React – Validated advanced React skills through rigorous vetting process
 - ⭐ **LeetCode Warrior**: Solved 650+ problems with multiple badges
 - 📜 **CKAD Course**: Completed Certified Kubernetes Application Developer training
 - 🥇 **Hackathon Winner**: First place in company-wide competition
