@@ -33,7 +33,7 @@ Software Engineer with over 4 years of professional experience building scalable
 ## 🏆 Achievements
 
 - ☁️ AWS Certified Cloud Practitioner: Demonstrated foundational cloud knowledge
-- 📜 Earned prestigious certification validating advanced React expertise and ability to build scalable, high-impact solutions
+- 📜 FullStack Labs Certified in React – Validated advanced React skills through rigorous vetting process
 - ⭐ **LeetCode Warrior**: Solved 650+ problems with multiple badges
 - 📜 **CKAD Course**: Completed Certified Kubernetes Application Developer training
 - 🥇 **Hackathon Winner**: First place in company-wide competition
