@@ -31,6 +31,7 @@ Software Engineer with over 4 years of professional experience building scalable
 - ☁️ **AWS Certified Cloud Practitioner**: Demonstrated foundational cloud knowledge
 - 📜 **AI Agents Fundamentals** - Hugging Face
 - 📜 **FullStack Labs Certified in React** – Validated advanced React skills through rigorous vetting process
+- 📜 **micro1 Certified – Software Developer**
 
 ## 🏆 Achievements
 
