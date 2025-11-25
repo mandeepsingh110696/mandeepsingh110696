@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mandeep Singh</h1>
-<h3 align="center">Frontend Developer @ SharkSignals | Full-Stack Engineer with 4+ Years of Experience</h3>
+<h3 align="center">Frontend Engineer @ SharkSignals | Full-Stack Engineer with 4+ Years of Experience</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -22,7 +22,7 @@ Frontend Software Engineer with over 4 years of professional experience building
 
 ## 💼 Current Work
 
-**Frontend Developer @ SharkSignals** _(Nov 2025 - Present)_
+**Frontend Engineer @ SharkSignals** _(Nov 2025 - Present)_
 - Building modern trading signal platforms from scratch using React, Next.js, and TypeScript
 - Integrating with .NET backend APIs and PostgreSQL databases
 - Implementing real-time trading automation with Azure SignalR
