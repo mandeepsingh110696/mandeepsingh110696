@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Frontend Software Engineer with over 4 years of professional experience building scalable web applications and intuitive user interfaces. Currently building trading signal platforms at **SharkSignals**. Passionate about clean code, performance optimization, and creating exceptional user experiences.
+Software Engineer with over 4 years of professional experience building scalable web applications and intuitive user interfaces. Currently building trading signal platforms at **SharkSignals**. Passionate about clean code, performance optimization, and creating exceptional user experiences.
 
 ---
 
