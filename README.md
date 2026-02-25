@@ -43,6 +43,7 @@ Software Engineer with over 4 years of professional experience building scalable
 
 ## 💻 Recent Projects
 
+- **[Runway](https://github.com/mandeepsingh110696/Runway)** – OpenAPI Quick Start Generator: paste a spec URL → get working code (curl/JS/Python), auth setup & shareable links. Next.js 16, TypeScript, Supabase, Biome.
 - **[Code Review Pro](https://github.com/mandeepsingh110696/Code-Review-Pro)** - AI-Powered Code Analysis Tool
 - **[Sketch Draw](https://github.com/mandeepsingh110696/Sketch-Draw)** - Interactive drawing application using Canvas API
 - **[Real-Time Messaging App](https://github.com/mandeepsingh110696/Real-Time-Messaging-App)** - WebSocket-based chat application
